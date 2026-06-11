@@ -7,4 +7,8 @@ A company website that is responsive
 
 ## Bulit with 
 HTML-Structure
-CSS-Styling 
+CSS-Styling of pages 
+Javascript-Functionality
+
+
+Has 5 webpages 
